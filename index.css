@@ -1,0 +1,41 @@
+
+.p{
+    width: 100%;
+}
+.p1{
+    width: 550px;
+}
+.d2,.d3{
+    border: 5px;
+    border-color: orange;
+    border-style: solid;
+    border-left: 0pc;
+    border-bottom: 0pc;
+    border-right: 0pc;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.d4,.d5{
+    border: 5px;
+    border-color: orange;
+    border-style: solid;
+    border-left: 0pc;
+    border-bottom: 0pc;
+    border-right: 0pc;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.text{
+    background-color: yellow;
+    width: 70%;
+    position: absolute;
+    top: 470px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 12px;
+}
+body{
+    margin: 0px;
+}
